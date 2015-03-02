@@ -513,6 +513,57 @@
 		87D5023E7A8A55490D06416E /* juce_AnimatedPositionBehaviours.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = juce_AnimatedPositionBehaviours.h; path = ../../JuceLibraryCode/modules/juce_gui_basics/layout/juce_AnimatedPositionBehaviours.h; sourceTree = SOURCE_ROOT; };
 		88FD8528D6A9F2809D9CE580 /* juce_ComponentBuilder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = juce_ComponentBuilder.cpp; path = ../../JuceLibraryCode/modules/juce_gui_basics/layout/juce_ComponentBuilder.cpp; sourceTree = SOURCE_ROOT; };
 		891C77DDF4DB2EDF1384208C /* juce_DeletedAtShutdown.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = juce_DeletedAtShutdown.cpp; path = ../../JuceLibraryCode/modules/juce_events/messages/juce_DeletedAtShutdown.cpp; sourceTree = SOURCE_ROOT; };
+		8937D7A01AA3BD59008EA345 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		8937D7A11AA3BD59008EA345 /* CircularBuffer.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CircularBuffer.hpp; sourceTree = "<group>"; };
+		8937D7A31AA3BD59008EA345 /* BiasedDelayPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BiasedDelayPatch.hpp; sourceTree = "<group>"; };
+		8937D7A41AA3BD59008EA345 /* BiasPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BiasPatch.hpp; sourceTree = "<group>"; };
+		8937D7A51AA3BD59008EA345 /* BitH8rPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BitH8rPatch.hpp; sourceTree = "<group>"; };
+		8937D7A61AA3BD59008EA345 /* blo_bleep.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = blo_bleep.hpp; sourceTree = "<group>"; };
+		8937D7A71AA3BD59008EA345 /* ConnyPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ConnyPatch.hpp; sourceTree = "<group>"; };
+		8937D7A81AA3BD59008EA345 /* DroneBox.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DroneBox.hpp; sourceTree = "<group>"; };
+		8937D7A91AA3BD59008EA345 /* DualTremoloPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DualTremoloPatch.hpp; sourceTree = "<group>"; };
+		8937D7AA1AA3BD59008EA345 /* JumpDelay.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = JumpDelay.hpp; sourceTree = "<group>"; };
+		8937D7AB1AA3BD59008EA345 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		8937D7AC1AA3BD59008EA345 /* SampleJitterPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SampleJitterPatch.hpp; sourceTree = "<group>"; };
+		8937D7AD1AA3BD59008EA345 /* SirenPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SirenPatch.hpp; sourceTree = "<group>"; };
+		8937D7AE1AA3BD59008EA345 /* EnvelopeFilterPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = EnvelopeFilterPatch.hpp; sourceTree = "<group>"; };
+		8937D7AF1AA3BD59008EA345 /* FixedDelayPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FixedDelayPatch.hpp; sourceTree = "<group>"; };
+		8937D7B01AA3BD59008EA345 /* FlangerPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FlangerPatch.hpp; sourceTree = "<group>"; };
+		8937D7B11AA3BD59008EA345 /* FourBandsEqPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FourBandsEqPatch.hpp; sourceTree = "<group>"; };
+		8937D7B21AA3BD59008EA345 /* FreeVerbPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FreeVerbPatch.hpp; sourceTree = "<group>"; };
+		8937D7B31AA3BD59008EA345 /* GainPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GainPatch.hpp; sourceTree = "<group>"; };
+		8937D7B41AA3BD59008EA345 /* includes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = includes.h; sourceTree = "<group>"; };
+		8937D7B51AA3BD59008EA345 /* JotReverbPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = JotReverbPatch.hpp; sourceTree = "<group>"; };
+		8937D7B61AA3BD59008EA345 /* LeakyIntegratorPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LeakyIntegratorPatch.hpp; sourceTree = "<group>"; };
+		8937D7B71AA3BD59008EA345 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		8937D7B81AA3BD59008EA345 /* LpfDelayPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LpfDelayPatch.hpp; sourceTree = "<group>"; };
+		8937D7B91AA3BD59008EA345 /* LpfDelayPhaserPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LpfDelayPhaserPatch.hpp; sourceTree = "<group>"; };
+		8937D7BB1AA3BD59008EA345 /* MdaBandistoPatch.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MdaBandistoPatch.cpp; sourceTree = "<group>"; };
+		8937D7BC1AA3BD59008EA345 /* MdaStereoPatch.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MdaStereoPatch.cpp; sourceTree = "<group>"; };
+		8937D7BD1AA3BD59008EA345 /* MdaTransientPatch.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MdaTransientPatch.cpp; sourceTree = "<group>"; };
+		8937D7BE1AA3BD59008EA345 /* OctaveDownPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = OctaveDownPatch.hpp; sourceTree = "<group>"; };
+		8937D7BF1AA3BD59008EA345 /* OverdrivePatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = OverdrivePatch.hpp; sourceTree = "<group>"; };
+		8937D7C01AA3BD59008EA345 /* ParametricEqPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ParametricEqPatch.hpp; sourceTree = "<group>"; };
+		8937D7C11AA3BD59008EA345 /* patches.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = patches.cpp; sourceTree = "<group>"; };
+		8937D7C21AA3BD59008EA345 /* PhaserPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PhaserPatch.hpp; sourceTree = "<group>"; };
+		8937D7C31AA3BD59008EA345 /* PsycheFilter.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PsycheFilter.hpp; sourceTree = "<group>"; };
+		8937D7C41AA3BD59008EA345 /* Qompression.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Qompression.hpp; sourceTree = "<group>"; };
+		8937D7C51AA3BD59008EA345 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		8937D7C61AA3BD59008EA345 /* ResonantFilterPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ResonantFilterPatch.hpp; sourceTree = "<group>"; };
+		8937D7C71AA3BD59008EA345 /* RingModulatorPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RingModulatorPatch.hpp; sourceTree = "<group>"; };
+		8937D7C81AA3BD59008EA345 /* SampleBasedPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SampleBasedPatch.hpp; sourceTree = "<group>"; };
+		8937D7C91AA3BD59008EA345 /* SimpleDelayPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SimpleDelayPatch.hpp; sourceTree = "<group>"; };
+		8937D7CA1AA3BD59008EA345 /* SimpleDriveDelayPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SimpleDriveDelayPatch.hpp; sourceTree = "<group>"; };
+		8937D7CB1AA3BD59008EA345 /* StateVariableFilterPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = StateVariableFilterPatch.hpp; sourceTree = "<group>"; };
+		8937D7CC1AA3BD59008EA345 /* StereoGainPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = StereoGainPatch.hpp; sourceTree = "<group>"; };
+		8937D7CD1AA3BD59008EA345 /* StereoMixerPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = StereoMixerPatch.hpp; sourceTree = "<group>"; };
+		8937D7CE1AA3BD59008EA345 /* SynthPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SynthPatch.hpp; sourceTree = "<group>"; };
+		8937D7CF1AA3BD59008EA345 /* TemplatePatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TemplatePatch.hpp; sourceTree = "<group>"; };
+		8937D7D01AA3BD59008EA345 /* TestTonePatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TestTonePatch.hpp; sourceTree = "<group>"; };
+		8937D7D11AA3BD59008EA345 /* Tremolo.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Tremolo.hpp; sourceTree = "<group>"; };
+		8937D7D21AA3BD59008EA345 /* VibroFlangePatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = VibroFlangePatch.hpp; sourceTree = "<group>"; };
+		8937D7D31AA3BD59008EA345 /* WaveshaperPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = WaveshaperPatch.hpp; sourceTree = "<group>"; };
+		8937D7D41AA3BD84008EA345 /* AuxSendPatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AuxSendPatch.hpp; sourceTree = "<group>"; };
 		893A78CD64AE7CDC1DF95D5F /* juce_NewLine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = juce_NewLine.h; path = ../../JuceLibraryCode/modules/juce_core/text/juce_NewLine.h; sourceTree = SOURCE_ROOT; };
 		897BBB0C1D3EE310B68C358D /* juce_KeyListener.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = juce_KeyListener.cpp; path = ../../JuceLibraryCode/modules/juce_gui_basics/keyboard/juce_KeyListener.cpp; sourceTree = SOURCE_ROOT; };
 		8A25A0964A355B1D3768137B /* juce_TextDiff.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = juce_TextDiff.h; path = ../../JuceLibraryCode/modules/juce_core/text/juce_TextDiff.h; sourceTree = SOURCE_ROOT; };
@@ -1336,6 +1387,7 @@
 		49162BE66036D49F8A28C785 /* Source */ = {
 			isa = PBXGroup;
 			children = (
+				8937D79F1AA3BD59008EA345 /* OwlPatches */,
 				7629082A575F6846D54EDE12 /* MemoryBuffer.hpp */,
 				12E8A7D874F61C439F627FD2 /* PluginPatchProcessor.cpp */,
 				155AD47F2318BBCAC227B096 /* PluginPatchProcessor.h */,
@@ -1423,12 +1475,7 @@
 		530EAEB29B11C9691942D0FA /* RTAS */ = {
 			isa = PBXGroup;
 			children = (
-				EC66ED8661A5334DFAA29A3F /* juce_RTAS_DigiCode1.cpp */,
-				B93B514AC77D50EC0C8B9607 /* juce_RTAS_DigiCode2.cpp */,
-				12DA4D8ED242428E5533745F /* juce_RTAS_DigiCode3.cpp */,
 				70A8E2604CB210EC3FCD1B20 /* juce_RTAS_WinUtilities.cpp */,
-				5AA84D8D99350AC97E71B92F /* juce_RTAS_Wrapper.cpp */,
-				D21B337CFE9670F0231668B1 /* juce_RTAS_MacUtilities.mm */,
 				3D8BE8A4BE15FC2130524515 /* juce_RTAS_DigiCode_Header.h */,
 			);
 			name = RTAS;
@@ -1768,7 +1815,6 @@
 				989A3CCC7F7D2053196EF8D8 /* juce_IncludeModuleHeaders.h */,
 				2749C58DF04C9872B0B09187 /* juce_IncludeSystemHeaders.h */,
 				8FDF75CC282A249AC470E5A5 /* juce_PluginHostType.h */,
-				6E75081CE23095E2CBD4F2E3 /* juce_PluginUtilities.cpp */,
 			);
 			name = utility;
 			sourceTree = "<group>";
@@ -1846,6 +1892,81 @@
 				EF6AC64DBD7AD0E68C7FA9F7 /* juce_TextInputTarget.h */,
 			);
 			name = keyboard;
+			sourceTree = "<group>";
+		};
+		8937D79F1AA3BD59008EA345 /* OwlPatches */ = {
+			isa = PBXGroup;
+			children = (
+				8937D7B31AA3BD59008EA345 /* GainPatch.hpp */,
+				8937D7D41AA3BD84008EA345 /* AuxSendPatch.hpp */,
+				8937D7A01AA3BD59008EA345 /* .gitignore */,
+				8937D7A11AA3BD59008EA345 /* CircularBuffer.hpp */,
+				8937D7A21AA3BD59008EA345 /* Contest */,
+				8937D7AE1AA3BD59008EA345 /* EnvelopeFilterPatch.hpp */,
+				8937D7AF1AA3BD59008EA345 /* FixedDelayPatch.hpp */,
+				8937D7B01AA3BD59008EA345 /* FlangerPatch.hpp */,
+				8937D7B11AA3BD59008EA345 /* FourBandsEqPatch.hpp */,
+				8937D7B21AA3BD59008EA345 /* FreeVerbPatch.hpp */,
+				8937D7B41AA3BD59008EA345 /* includes.h */,
+				8937D7B51AA3BD59008EA345 /* JotReverbPatch.hpp */,
+				8937D7B61AA3BD59008EA345 /* LeakyIntegratorPatch.hpp */,
+				8937D7B71AA3BD59008EA345 /* LICENSE */,
+				8937D7B81AA3BD59008EA345 /* LpfDelayPatch.hpp */,
+				8937D7B91AA3BD59008EA345 /* LpfDelayPhaserPatch.hpp */,
+				8937D7BA1AA3BD59008EA345 /* mdaPorts */,
+				8937D7BE1AA3BD59008EA345 /* OctaveDownPatch.hpp */,
+				8937D7BF1AA3BD59008EA345 /* OverdrivePatch.hpp */,
+				8937D7C01AA3BD59008EA345 /* ParametricEqPatch.hpp */,
+				8937D7C11AA3BD59008EA345 /* patches.cpp */,
+				8937D7C21AA3BD59008EA345 /* PhaserPatch.hpp */,
+				8937D7C31AA3BD59008EA345 /* PsycheFilter.hpp */,
+				8937D7C41AA3BD59008EA345 /* Qompression.hpp */,
+				8937D7C51AA3BD59008EA345 /* README.md */,
+				8937D7C61AA3BD59008EA345 /* ResonantFilterPatch.hpp */,
+				8937D7C71AA3BD59008EA345 /* RingModulatorPatch.hpp */,
+				8937D7C81AA3BD59008EA345 /* SampleBasedPatch.hpp */,
+				8937D7C91AA3BD59008EA345 /* SimpleDelayPatch.hpp */,
+				8937D7CA1AA3BD59008EA345 /* SimpleDriveDelayPatch.hpp */,
+				8937D7CB1AA3BD59008EA345 /* StateVariableFilterPatch.hpp */,
+				8937D7CC1AA3BD59008EA345 /* StereoGainPatch.hpp */,
+				8937D7CD1AA3BD59008EA345 /* StereoMixerPatch.hpp */,
+				8937D7CE1AA3BD59008EA345 /* SynthPatch.hpp */,
+				8937D7CF1AA3BD59008EA345 /* TemplatePatch.hpp */,
+				8937D7D01AA3BD59008EA345 /* TestTonePatch.hpp */,
+				8937D7D11AA3BD59008EA345 /* Tremolo.hpp */,
+				8937D7D21AA3BD59008EA345 /* VibroFlangePatch.hpp */,
+				8937D7D31AA3BD59008EA345 /* WaveshaperPatch.hpp */,
+			);
+			name = OwlPatches;
+			path = ../../Source/OwlPatches;
+			sourceTree = "<group>";
+		};
+		8937D7A21AA3BD59008EA345 /* Contest */ = {
+			isa = PBXGroup;
+			children = (
+				8937D7A31AA3BD59008EA345 /* BiasedDelayPatch.hpp */,
+				8937D7A41AA3BD59008EA345 /* BiasPatch.hpp */,
+				8937D7A51AA3BD59008EA345 /* BitH8rPatch.hpp */,
+				8937D7A61AA3BD59008EA345 /* blo_bleep.hpp */,
+				8937D7A71AA3BD59008EA345 /* ConnyPatch.hpp */,
+				8937D7A81AA3BD59008EA345 /* DroneBox.hpp */,
+				8937D7A91AA3BD59008EA345 /* DualTremoloPatch.hpp */,
+				8937D7AA1AA3BD59008EA345 /* JumpDelay.hpp */,
+				8937D7AB1AA3BD59008EA345 /* README.md */,
+				8937D7AC1AA3BD59008EA345 /* SampleJitterPatch.hpp */,
+				8937D7AD1AA3BD59008EA345 /* SirenPatch.hpp */,
+			);
+			path = Contest;
+			sourceTree = "<group>";
+		};
+		8937D7BA1AA3BD59008EA345 /* mdaPorts */ = {
+			isa = PBXGroup;
+			children = (
+				8937D7BB1AA3BD59008EA345 /* MdaBandistoPatch.cpp */,
+				8937D7BC1AA3BD59008EA345 /* MdaStereoPatch.cpp */,
+				8937D7BD1AA3BD59008EA345 /* MdaTransientPatch.cpp */,
+			);
+			path = mdaPorts;
 			sourceTree = "<group>";
 		};
 		8E3AB4D7A6A010BE8CD52384 /* juce_graphics */ = {
@@ -1930,8 +2051,6 @@
 		9D17C6EBEEF52609C382F9B6 /* AAX */ = {
 			isa = PBXGroup;
 			children = (
-				605E0029E000E3F14118F7A9 /* juce_AAX_Wrapper.cpp */,
-				C0474154CDEE87E0B078BDE2 /* juce_AAX_Wrapper.mm */,
 			);
 			name = AAX;
 			sourceTree = "<group>";
@@ -2293,7 +2412,6 @@
 		CF4CE6B1F05DE0653B7A44F0 /* AU */ = {
 			isa = PBXGroup;
 			children = (
-				16FF61265F22DF132365322C /* juce_AU_Wrapper.mm */,
 			);
 			name = AU;
 			sourceTree = "<group>";
@@ -2433,8 +2551,6 @@
 		EB6DECDB2BD5685E9927B3E9 /* VST */ = {
 			isa = PBXGroup;
 			children = (
-				7C244D58BF1F61830051A706 /* juce_VST_Wrapper.cpp */,
-				5800BF9E6C2364D78C77C0BD /* juce_VST_Wrapper.mm */,
 			);
 			name = VST;
 			sourceTree = "<group>";
@@ -2622,7 +2738,7 @@
 		D371A5211B24B03A0E33728E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0440;
+				LastUpgradeCheck = 0610;
 			};
 			buildConfigurationList = 07BCBD0992B3B3BF9F9DE8C2 /* Build configuration list for PBXProject "OwlSim" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -2719,7 +2835,7 @@
 		735B719A79F6CCFD7D09CAFE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
@@ -2730,7 +2846,16 @@
 				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
 				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"/Users/benzkji/Development/hoxton-owl/VST3-SDK/**",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_NAME = OwlSim;
+				REZ_SEARCH_PATHS = "/Library/Developer/CoreAudio/**";
+				SDKROOT = macosx10.9;
+				USER_HEADER_SEARCH_PATHS = "/Users/benzkji/Development/hoxton-owl/VST3-SDK/";
 				WARNING_CFLAGS = "-Wreorder";
 				ZERO_LINK = NO;
 			};
@@ -2768,7 +2893,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "-bundle";
 				OTHER_REZFLAGS = "-d ppc_$ppc -d i386_$i386 -d ppc64_$ppc64 -d x86_64_$x86_64 -I /System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Versions/A/Headers -I \"$(DEVELOPER_DIR)/Extras/CoreAudio/AudioUnits/AUPublic/AUBase\"";
-				SDKROOT = macosx10.8;
+				SDKROOT = macosx;
 				SDKROOT_ppc = macosx10.5;
 				WRAPPER_EXTENSION = component;
 			};
@@ -2806,7 +2931,7 @@
 				MACOSX_DEPLOYMENT_TARGET_ppc = 10.4;
 				OTHER_LDFLAGS = "-bundle";
 				OTHER_REZFLAGS = "-d ppc_$ppc -d i386_$i386 -d ppc64_$ppc64 -d x86_64_$x86_64 -I /System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Versions/A/Headers -I \"$(DEVELOPER_DIR)/Extras/CoreAudio/AudioUnits/AUPublic/AUBase\"";
-				SDKROOT = macosx10.8;
+				SDKROOT = macosx;
 				SDKROOT_ppc = macosx10.5;
 				WRAPPER_EXTENSION = component;
 			};
@@ -2815,7 +2940,7 @@
 		E82651CEAD19B535164C63A3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
@@ -2826,7 +2951,17 @@
 				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
 				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"/Users/benzkji/Development/hoxton-owl/VST3-SDK/**",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = OwlSim;
+				REZ_SEARCH_PATHS = "/Library/Developer/CoreAudio/**";
+				SDKROOT = macosx10.9;
+				USER_HEADER_SEARCH_PATHS = "/Users/benzkji/Development/hoxton-owl/VST3-SDK/";
 				WARNING_CFLAGS = "-Wreorder";
 				ZERO_LINK = NO;
 			};

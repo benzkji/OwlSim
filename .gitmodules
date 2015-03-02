@@ -1,4 +1,4 @@
 [submodule "Source/OwlPatches"]
 	path = Source/OwlPatches
-	url = git@github.com:pingdynasty/OwlPatches.git
+	url = git@github.com:benzkji/OwlPatches.git
 	ignore = dirty

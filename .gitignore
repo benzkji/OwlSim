@@ -1,5 +1,10 @@
 .DS_Store
 
+Builds/MacOSX/OwlSim.xcodeproj/project.xcworkspace/
+Builds/MacOSX/build/
+Builds/MacOSX/OwlSim.xcodeproj/xcuserdata/
+
+
 # Compiled Object files
 *.slo
 *.lo
